@@ -75,7 +75,7 @@ Diving into Variables, Types, and Methods (38–64)
 		- [ ] Define a simple method with parameters
 		- [ ] Add a return type and return some data from a method
 		- [ ] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables: **??**
+- [ ] ✏️ Explain some differences between public and private variables: Public variables can be accessed with any reference to the class the variable is in. Private variables can only be referenced within the class itself.
 
 
 ## Chapter 4
