@@ -49,49 +49,49 @@ Below is a list of tasks that correspond roughly to the "Take Action" sections o
 Getting to Know Your Environment (9–21)
 
 - [X] ✏️ Open the reference manual for any component from inside Unity. Paste the link: [Link](https://docs.unity3d.com/Manual/index.html)
-- [ ] ✏️ Find the button to jump to the scripting reference the any reference manual page. Paste the link: [Link](https://docs.unity3d.com/ScriptReference/index.html)
-- [ ] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: [Link](https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-7.0)
+- [X] ✏️ Find the button to jump to the scripting reference the any reference manual page. Paste the link: [Link](https://docs.unity3d.com/ScriptReference/index.html)
+- [X] ✏️ Search for the `Strings` class in [Microsoft's C# documents](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/). Paste the link: [Link](https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-7.0)
 
 
 ## Chapter 2
 The Building Blocks of Programming (22–37)
 
-- [ ] Open the Unity project contained within this repo
-- [ ] Create Assets/Scripts/LearningCurve.cs
-	- [ ] Create C# variables with typeof `int`, `float`, `string`, and `bool`
-	- [ ] Add a single line, multi line, and summary comment to LearningCurve.cs
-	- [ ] Run the code in LearningCurve by attaching it to the Main Camera GameObject
+- [X] Open the Unity project contained within this repo
+- [X] Create Assets/Scripts/LearningCurve.cs
+	- [X] Create C# variables with typeof `int`, `float`, `string`, and `bool`
+	- [X] Add a single line, multi line, and summary comment to LearningCurve.cs
+	- [X] Run the code in LearningCurve by attaching it to the Main Camera GameObject
 
 
 ## Chapter 3
 Diving into Variables, Types, and Methods (38–64)
 
-- [ ] Update Assets/Scripts/LearningCurve.cs
-	- [ ] Variables
-		- [ ] Use access modifiers to make your variables explicitly `public` and `private`
-		- [ ] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
-		- [ ] Concatenate strings using the `+` operator, and the string interpolation method `$`
-	- [ ] Methods
-		- [ ] Define a simple method with parameters
-		- [ ] Add a return type and return some data from a method
-		- [ ] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables: Public variables can be accessed with any reference to the class the variable is in. Private variables can only be referenced within the class itself.
+- [X] Update Assets/Scripts/LearningCurve.cs
+	- [X] Variables
+		- [X] Use access modifiers to make your variables explicitly `public` and `private`
+		- [X] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
+		- [X] Concatenate strings using the `+` operator, and the string interpolation method `$`
+	- [X] Methods
+		- [X] Define a simple method with parameters
+		- [X] Add a return type and return some data from a method
+		- [X] Use data returned from a method
+- [X] ✏️ Explain some differences between public and private variables: Public variables can be accessed with any reference to the class the variable is in. Private variables can only be referenced within the class itself.
 
 
 ## Chapter 4
 Control Flow and Collection Types (65–93)
 
-- [ ] Update Assets/Scripts/LearningCurve.cs
-	- [ ] Conditionals
-		- [ ] Write `if`, `else if`, and `else` statements
-		- [ ] Test for `true` and `!true` in a conditional
-		- [ ] Write a nested `if` statement
-		- [ ] Write a `switch` statement
-	- [ ] Collections
-		- [ ] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : green
-		- [ ] Write an Array of the type `int[]`
-		- [ ] Write a List of the type `List<string>`
-		- [ ] Write a Dictionary of the type `Dictionary<string, int>`
+- [X] Update Assets/Scripts/LearningCurve.cs
+	- [X] Conditionals
+		- [X] Write `if`, `else if`, and `else` statements
+		- [X] Test for `true` and `!true` in a conditional
+		- [X] Write a nested `if` statement
+		- [X] Write a `switch` statement
+	- [X] Collections
+		- [X] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : green
+		- [X] Write an Array of the type `int[]`
+		- [X] Write a List of the type `List<string>`
+		- [X] Write a Dictionary of the type `Dictionary<string, int>`
 	- [ ] Loops
 		- [ ] Use a `for` loop to print a specific index of a `List<string>`
 		- [ ] Use a `foreach` loop to print all indexes of a `List<string>`
