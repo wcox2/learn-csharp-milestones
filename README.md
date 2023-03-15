@@ -186,4 +186,4 @@ Scripting Game Mechanics (176–207)
 - [X] Add a simple UI to inform the user of game state(s)
 	- [X] Add text to show the health and items counts to the user
 	- [X] Add a win condition to the game and display it in the UI
-	- [X ] Use `Time.timeScale = 0` to pause the game
+	- [X] Use `Time.timeScale = 0` to pause the game
