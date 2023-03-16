@@ -103,7 +103,7 @@ Control Flow and Collection Types (65–93)
 Working with Classes, Structs, and OOP (94–119)
 
 - Classes
-	- [X] ✏️ Explain the difference between reference and value type variables: **??**
+	- [X] ✏️ Explain the difference between reference and value type variables: Reference types refer to the object that the variable is. Value types give that object a specific value.
 	- [X] Create Assets/Scripts/Character.cs
 		- [X] Create a `Character` class
 		- [X] Create `string` and `int` fields inside the Character class
@@ -162,7 +162,7 @@ Movement, Camera Controls, and Collisions (149–175)
 - [X] Physics and Collisions
 	- [X] Use `FixedUpdate()` to control game objects using Unity's physics engine
 	- [X] Apply physics forces to a game object RigidBody using `MovePosition()`
-	- [X] ✏️ Q: Will a [collision detection](https://docs.unity3d.com/Manual/CollidersOverview.html) occur when a Kinematic Rigidbody Collider touches a Static Collider? : **??**
+	- [X] ✏️ Q: Will a [collision detection](https://docs.unity3d.com/Manual/CollidersOverview.html) occur when a Kinematic Rigidbody Collider touches a Static Collider? : Yes
 	- [X] Use `OnCollisionEnter()` to check if a game object has run into another collider
 	- [X] Use `Destroy()` to remove a game object from the scene
 	- [X] Use `OnTriggerEnter()` and `OnTriggerExit()` to detect when two colliders start and stop touching
